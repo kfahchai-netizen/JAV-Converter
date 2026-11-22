@@ -40,7 +40,7 @@ Press **Toggle Fun** to switch to a pink theme and convert between everyday obje
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/kfahchai-netizen/JAV-Converter.git
+git clone https://github.com/kfahchai/JAV-Converter.git
 cd JAV-Converter
 pip install pygame
 python Main_module.py
